@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFood</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="myfood">MyFood</string>
+    <string name="makanan_indonesia">Makanan Indonesia</string>
+</resources>
